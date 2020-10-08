@@ -36,12 +36,16 @@ Creating this was very easy, but it took me longer because at first I didn't use
 ## Mount
 
 ### Description
+Added a new sketch ontop of the base and extruded it.
 
 ### Evidence
+[The Mound in Onshape](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
+<img src="EngineeringNotebook/Images for notebook/Screenshot 2020-10-08 at 10.10.33 AM.png" alt="Mound" width="100" height="100">
 
 ### Reflection
+This part was also easy, although I did have to go back and redo some things.
 
 ---
 
