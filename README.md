@@ -1,8 +1,5 @@
-
-# BasicCAD
-
-We are creating a caster.
-
+# Engineering2 Notebook
+## Logan Martin
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
@@ -17,30 +14,23 @@ We are creating a caster.
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+I made a quick sketch and extruded it.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
-~~~
-<img src="images/Base.jpg" alt="The Base" width="200">
-~~~
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+Creating this was very easy, but it took me longer because at first I didn't use the short cuts.
+
 * sketching (shortcut **shift-s**)
 * constructions lines (shortcut **Q**)
 * dimensions (shortcut **D**)
 * extruding both add and remove (shortcut key **E**)
 * linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-
----
 
 
 ## Mount
