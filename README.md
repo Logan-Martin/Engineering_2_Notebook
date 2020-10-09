@@ -20,10 +20,9 @@ I made a quick sketch and extruded it.
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="200" height="200">
 
-### Reflection
-
+### Reflection 
 Creating this was very easy, but it took me longer because at first I didn't use the short cuts.
 
 * sketching (shortcut **shift-s**)
