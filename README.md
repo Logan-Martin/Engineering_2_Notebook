@@ -93,8 +93,11 @@ Made a few boxes, made a revole, added holes, and lastly filleted a lot of edges
 
 ### Image
 
+<img src="Images for notebook/Screenshot 2020-10-09 at 1.16.32 PM.png" alt="Wheel" width="200" height="200">
+
 ### Refletion 
-A tricky part was getting the correct dementions in the right place, sometimes i'd put it in the wrong spot.
+the hardest part for me was dementioning the wrong thing.
+
 ---
 
 
