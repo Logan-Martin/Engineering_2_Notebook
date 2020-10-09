@@ -87,13 +87,14 @@ Make sure you have the correct measurements, it might break something later.
 ## Wheel
 
 ### Description
-
+Made a few boxes, made a revole, added holes, and lastly filleted a lot of edges.
 ### Evidence
+[The wheel is in a part file, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
 
-### Reflection
-
+### Refletion 
+A tricky part was getting the correct dementions in the right place, sometimes i'd put it in the wrong spot.
 ---
 
 
