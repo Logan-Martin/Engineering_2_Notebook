@@ -63,6 +63,7 @@ I made a circle, extruded it and made filleted corners and made a tube.
 <img src="/Images for notebook/Screenshot 2020-10-08 at 3.11.53 PM.png" alt="Fork" width="200" height="200">
 
 ### Reflection
+
 I was very confused when making the first extrude, but then I finished it. Making a chamfer doesn't look like it made a huge difference.
 
 ---
