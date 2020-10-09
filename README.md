@@ -80,9 +80,9 @@ I made a trapezoid and revolved it to make a tire.
 <img src="Images for notebook/Screenshot 2020-10-09 at 10.07.09 AM.png" alt="Tire" width="200" height="200">
 
 ### Reflection
-First read the instrutions and then make it, I tried doing it on my own and then had to redo it.
----
+Make sure you have the correct measurements, it might break something later.
 
+---
 
 ## Wheel
 
