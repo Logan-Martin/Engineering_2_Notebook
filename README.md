@@ -71,7 +71,7 @@ I was very confused when making the first extrude, but then I finished it. Makin
 ## Tire
 
 ### Description
-I made a trapozoid and revolved it to make a tire.
+I made a trapezoid and revolved it to make a tire.
 
 ### Evidence
 [The Tire is a seperate part, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
