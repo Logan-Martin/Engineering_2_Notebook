@@ -54,6 +54,7 @@ This part was also easy, although I did have to go back and redo some things.
 
 ### Description
 Supprizingly you can't eat with it despite it's name.
+I made a circle, extruded it and made filleted corners and made a tube.
 
 ### Evidence
 [The fork is a seperate part, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
@@ -62,7 +63,7 @@ Supprizingly you can't eat with it despite it's name.
 <img src="/Images for notebook/Screenshot 2020-10-08 at 3.11.53 PM.png" alt="Fork" width="200" height="200">
 
 ### Reflection
-I was very confused at the start, but then I finished it. Making a chamfer doesn't look like it made a huge difference.
+I was very confused when making the first extrude, but then I finished it. Making a chamfer doesn't look like it made a huge difference.
 
 ---
 
@@ -70,13 +71,16 @@ I was very confused at the start, but then I finished it. Making a chamfer doesn
 ## Tire
 
 ### Description
+I made a trapozoid and revolved it to make a tire.
 
 ### Evidence
+[The Tire is a seperate part, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
+<img src="Images for notebook/Screenshot 2020-10-09 at 10.07.09 AM.png" alt="Tire" width="200" height="200">
 
 ### Reflection
-
+First read the instrutions and then make it, I tried doing it on my own and then had to redo it.
 ---
 
 
