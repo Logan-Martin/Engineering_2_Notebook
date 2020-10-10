@@ -103,12 +103,14 @@ the hardest part for me was dementioning the wrong thing.
 ## AxleCollarBearings
 
 ### Description
-
+I Made a bunch of circles and extruded them, then took out a  chip of it on each side. Then I sketched a bigger circle off of the axle and made an extrude which made the collar. Finaly I remade the collar on a seperate document, but bigger to make the washer.
 ### Evidence
+[Axle,Collar, Bearing](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
 
 ### Reflection
+I'm getting a lot faster at making these. Although it is fun, I still make mistakes. When making this there was no tricky part.
 
 ---
 
