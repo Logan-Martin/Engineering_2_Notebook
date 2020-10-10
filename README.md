@@ -108,6 +108,8 @@ I Made a bunch of circles and extruded them, then took out a  chip of it on each
 [Axle,Collar, Bearing](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
+<img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.36 PM.png" alt="Axle,Collar" width="200" height="200">
+<img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.22 PM.png" alt="Washer" width="200" height="200">
 
 ### Reflection
 I'm getting a lot faster at making these. Although it is fun, I still make mistakes. When making this there was no tricky part.
