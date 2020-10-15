@@ -20,7 +20,7 @@ I made a quick sketch and extruded it.
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="200" height="200">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="300" height="300">
 
 ### Reflection 
 Creating this was very easy, but it took me longer because at first I didn't use the short cuts.
@@ -41,7 +41,7 @@ Added a new sketch ontop of the base and extruded it.
 [The Mound in Onshape](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="/Images for notebook/Screenshot 2020-10-08 at 10.10.33 AM.png" alt="Mound" width="200" height="200">
+<img src="/Images for notebook/Screenshot 2020-10-08 at 10.10.33 AM.png" alt="Mound" width="300" height="300">
 
 ### Reflection
 This part was also easy, although I did have to go back and redo some things.
@@ -59,7 +59,7 @@ I made a circle, extruded it and made filleted corners and made a tube.
 [The fork is a seperate part, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="/Images for notebook/Screenshot 2020-10-08 at 3.11.53 PM.png" alt="Fork" width="200" height="200">
+<img src="/Images for notebook/Screenshot 2020-10-08 at 3.11.53 PM.png" alt="Fork" width="300" height="300">
 
 ### Reflection
 i was very confused when making the first extrude, but then I finished it. Making a chamfer doesn't look like it made a huge difference.
@@ -76,7 +76,7 @@ I made a trapezoid and revolved it to make a tire.
 [The Tire is a seperate part, but it is here](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="Images for notebook/Screenshot 2020-10-09 at 10.07.09 AM.png" alt="Tire" width="200" height="200">
+<img src="Images for notebook/Screenshot 2020-10-09 at 10.07.09 AM.png" alt="Tire" width="300" height="300">
 
 ### Reflection
 Make sure you have the correct measurements, it might break something later.
@@ -92,7 +92,7 @@ Made a few boxes, made a revole, added holes, and lastly filleted a lot of edges
 
 ### Image
 
-<img src="Images for notebook/Screenshot 2020-10-09 at 1.16.32 PM.png" alt="Wheel" width="200" height="200">
+<img src="Images for notebook/Screenshot 2020-10-09 at 1.16.32 PM.png" alt="Wheel" width="300" height="300">
 
 ### Refletion 
 the hardest part for me was dementioning the wrong thing.
@@ -108,7 +108,7 @@ I Made a bunch of circles and extruded them, then took out a  chip of it on each
 [Axle,Collar, Bearing](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
-<img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.36 PM.png" alt="Axle,Collar" width="200" height="200"> <img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.22 PM.png" alt="Washer" width="200" height="200">
+<img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.36 PM.png" alt="Axle,Collar" width="300" height="300"> <img src="/Images for notebook/Screenshot 2020-10-10 at 7.10.22 PM.png" alt="Washer" width="200" height="200">
 
 ### Reflection
 I'm getting a lot faster at making these. Although it is fun, I still make mistakes. When making this there was no tricky part.
