@@ -147,7 +147,7 @@ I started by mating the mound, base, and sub assembly together. Then I Put an ax
 <img src="/Images for notebook/Screenshot 2020-10-17 at 3.16.19 PM.png" alt="Assembly" width="300" height="300">
 
 ### Reflection
-This Was also kind of easy, but the mating of some parts were an issue. I fixed most of the problems by fliping the direction in onshape. I finished, YAY!
+This was also kind of easy, but the mating of some parts were an issue. I fixed most of the problems by fliping the direction in onshape. I finished, YAY!
 
 --- 
 
