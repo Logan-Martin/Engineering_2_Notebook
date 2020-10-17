@@ -130,7 +130,7 @@ Made a quick assembly documenet and mated the bearing, wheel, tire, and the axle
 <img src="/Images for notebook/Screenshot 2020-10-17 at 2.11.05 PM.png" alt="Sub-Assembly" width="300" height="300">
 
 ### Reflection
-This was really easy to mate the parts togher, but I did mate some things wrong and have to go back and fix them.
+It was really easy to mate the parts togher, but I did mate some things wrong and have to go back and fix them.
 
 ---
 
