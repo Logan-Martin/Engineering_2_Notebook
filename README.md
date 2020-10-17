@@ -9,7 +9,7 @@
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Sub Assembly](#Sub Assembly)
+* [Sub Assembly](#SubAssembly)
 * [Assembly](#Assembly)
 
 ## Base
@@ -118,7 +118,7 @@ I'm getting a lot faster at making these. Although it is fun, I still make mista
 ---
 
 
-## Sub Assembly
+## SubAssembly
 
 ### Description
 
