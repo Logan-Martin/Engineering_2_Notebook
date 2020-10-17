@@ -138,12 +138,16 @@ It was really easy to mate the parts togher, but I did mate some things wrong an
 ## Assembly
 
 ### Description
+I started by mateing the mound, base, and sub assembly together. Then I Put an axle and bearings in to fix some movement. Finally I mated a bunch of bolts, nails, and pins to secure the entire thing.
 
 ### Evidence
+[Assembly](https://cvilleschools.onshape.com/documents/66a36a2b54ae9e5074882f0e/w/8c90925c436178ae3cc82c05/e/f6c0483f0cedd2b4f5e7c527)
 
 ### Image
+<img src="/Images for notebook/Screenshot 2020-10-17 at 3.07.00 PM.png" alt="Assembly" width="300" height="300">
 
 ### Reflection
+This Was also kind of easy, but the mating of some parts were an issue. I fixed most of the problems by fliping the direction in onshape. I finished, YAY!
 
 --- 
 
